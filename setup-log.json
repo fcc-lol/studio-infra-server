@@ -1,0 +1,9 @@
+{
+  "service_id": "studio-infra-server",
+  "service_name": "Studio Infra Server",
+  "domain": "https://studio-infra-server.fcc.lol",
+  "host": "localhost",
+  "port": "3106",
+  "author": "fcc",
+  "created_on": "Sat Jun 28 22:41:29 UTC 2025"
+}
